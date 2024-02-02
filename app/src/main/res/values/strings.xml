@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Калькулятор чего-то</string>
+    <string name="input">Input</string>
+    <string name="calc">Calc</string>
+    <string name="about">About</string>
+    <string name="about_text">Звать меня Артём, мне наказали написать тут что-то о разработчике, но есть нюанс: разработчик это Я и обо мне писать особо нечего.
+        Я конечно же мог вставить сюда Lorem, но мне как-то впадлу (поэтому я решил написать всё от руки, да-да).
+        В данный момент я сижу ночью с кружечкой кофе и пишу данный текст. На самом деле я даже не уверен что его будет кто-то читать, но мне как-то и похрен.\n
+        PS: и да, я знаю что выравнивание текста по центру выглядит убого, но я не нашёл выравнивание по ширине, а остальное не шибко лучше.</string>
+    <string name="number_1">Number#1</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="number_2">Number#2</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="number_3">Number#3</string>
+    <string name="enter_third_number">Enter third number</string>
+    <string name="sum">Sum</string>
+    <string name="least_multiple">Least multiple</string>
+    <string name="ok">OK</string>
+</resources>
